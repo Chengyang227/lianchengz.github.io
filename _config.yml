@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Liancheng Zhang (张联诚)"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate @ RUC"
+  bio              : "RUC"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
